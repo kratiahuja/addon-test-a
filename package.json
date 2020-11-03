@@ -23,7 +23,7 @@
     "test:ember-compatibility": "ember try:each"
   },
   "dependencies": {
-    "addon-test-b": "0.0.5",
+    "addon-test-b": "1.0.0",
     "ember-cli-babel": "^7.19.0",
     "ember-cli-htmlbars": "^4.3.1"
   },
