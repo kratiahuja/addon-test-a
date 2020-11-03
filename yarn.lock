@@ -1492,14 +1492,6 @@ acorn@^7.1.1:
   resolved "https://registry.yarnpkg.com/acorn/-/acorn-7.4.1.tgz#feaed255973d2e77555b83dbc08851a6c63520fa"
   integrity sha512-nQyp0o1/mNdbTO1PO6kHkwSrmgZ0MT/jCCpNiwbUjGoRN4dlBhqJtoQuCnEOKzgTVwg0ZWiCoQy6SxMebQVh8A==
 
-addon-test-b@^0.0.2:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/addon-test-b/-/addon-test-b-0.0.2.tgz#3eedb28662b59493687bbf8aa6a88b34c382bcb5"
-  integrity sha512-+brT+HSPgIEaF7heCMdP4R2BrjXaJYdGyvHrXWbMafcvwxB9mU82ujr4TvKMqTUY9aZvJG/2mV9MwimY9SoNbg==
-  dependencies:
-    ember-cli-babel "^7.19.0"
-    ember-cli-htmlbars "^4.3.1"
-
 after@0.8.2:
   version "0.8.2"
   resolved "https://registry.yarnpkg.com/after/-/after-0.8.2.tgz#fedb394f9f0e02aa9768e702bda23b505fae7e1f"
